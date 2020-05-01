@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Tartufo Nero",
+      "price": 3.5,
+      "code": "D2"
+    },
+    {
+      "name": "Tartufo Bianco",
+      "price": 3.5,
+      "code": "D3"
+    }
+  ],
+  "status": 2000,
+  "paginator": {
+    "total": 1,
+    "per_page": 10,
+    "limit": 5
+  }
+}

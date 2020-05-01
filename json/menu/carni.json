@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "name": "ENTRECOTE Angus Irlandese 250 gr (frollatura 45/60 gg) con rucola e pomodorini o patatine fritte o verdure grigliate",
+      "price": 13,
+      "code": "C2"
+    },
+    {
+      "name": "TAGLIATA Angus Irlandese 250 gr (frollatura 45/60 gg) Rucola, Grana, Pomodorini",
+      "price": 13,
+      "code": "C3"
+    },
+    {
+      "name": "TAGLIATA Angus Irlandese 250 gr (frollatura 45/60 gg) con porcini trifolati",
+      "price": 14,
+      "code": "C4"
+    },
+    {
+      "name": "TAGLIATA di pollo ai ferri, con contorno di verdure grigliate, Pomodorini, Insalata e carciofi",
+      "price": 10,
+      "code": "C5"
+    }
+  ],
+  "status": 2000,
+  "paginator": {
+    "total": 1,
+    "per_page": 10,
+    "limit": 5
+  }
+}

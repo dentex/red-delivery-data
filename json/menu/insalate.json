@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "name": "Iceberg, Carota, Mais, Olive, Philadelphia, Bresaola",
+      "price": 7,
+      "code": "I1"
+    },
+    {
+      "name": "Iceberg, Carota, Pomodoro, Mozzarella, Crudo, Rucola, Grana",
+      "price": 7,
+      "code": "I2"
+    },
+    {
+      "name": "Iceberg, Carota, Rucola, Mais, Ananas, Avocado, Gamberetti, Pomodorini gialli",
+      "price": 7,
+      "code": "I3"
+    }
+  ],
+  "status": 2000,
+  "paginator": {
+    "total": 1,
+    "per_page": 10,
+    "limit": 5
+  }
+}
