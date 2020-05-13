@@ -1,0 +1,28 @@
+{
+  "info": [
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/call.png",
+      "height": 192,
+      "text": "Chiamaci a questo numero",
+      "subtext": "+39 348 4891528",
+      "action": "call"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/map.png",
+      "height": 500,
+      "text": "Dove siamo",
+      "subtext": "Per raggiungerci con Google Maps",
+      "action": "maps"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/menu.png",
+      "height": 425,
+      "text": "Dal nostro menu",
+      "subtext": "Clicca qui e dai un occhiata",
+      "action": "slideshow",
+      "num": 17,
+      "dir": "menu"
+    }
+  ],
+  "img_num": 17
+}

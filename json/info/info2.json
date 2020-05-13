@@ -1,0 +1,108 @@
+{
+  "info": [
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/call.png",
+      "height": 192,
+      "text": "Chiamaci a questo numero",
+      "subtext": "+39 348 4891528",
+      "action": "call"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/map.png",
+      "height": 500,
+      "text": "Dove siamo",
+      "subtext": "Per raggiungerci con Google Maps",
+      "action": "maps"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/hamburger.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Hamburger",
+      "action": "slideshow",
+      "num": 22,
+      "dir": "hamburger"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/panini.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "panini",
+      "action": "slideshow",
+      "num": 10,
+      "dir": "panini"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/carni.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Carni",
+      "action": "slideshow",
+      "num": 5,
+      "dir": "carni"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/fritti.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Fritti",
+      "action": "slideshow",
+      "num": 9,
+      "dir": "fritti"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/bruschette.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "bruschette",
+      "action": "slideshow",
+      "num": 5,
+      "dir": "bruschette"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/insalate.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Insalate",
+      "action": "slideshow",
+      "num": 1,
+      "dir": "insalate"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/mexican.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Mexican",
+      "action": "slideshow",
+      "num": 1,
+      "dir": "mexican"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/dolci.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Dolci",
+      "action": "slideshow",
+      "num": 2,
+      "dir": "dolci"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/birre.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Birre",
+      "action": "slideshow",
+      "num": 8,
+      "dir": "birre"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/json/info/images/bevande.png",
+      "height": 425,
+      "text": "Menu",
+      "subtext": "Bevande",
+      "action": "slideshow",
+      "num": 8,
+      "dir": "bevande"
+    }
+  ]
+}
