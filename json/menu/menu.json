@@ -1,6 +1,6 @@
 {
   "menu" : {
-    "bevande" : [ {
+    "Bevande" : [ {
       "code" : "BA1",
       "name" : "Acqua naturale 50 cl",
       "price" : 1
@@ -45,7 +45,7 @@
       "name" : "Tonica",
       "price" : 2.5
     } ],
-    "birre" : [ {
+    "Birre" : [ {
       "code" : "BB1",
       "name" : "Bionda Lager 33 cl Heineken",
       "price" : 2
@@ -78,7 +78,7 @@
       "name" : "Bush Ambree 33 cl",
       "price" : 5
     } ],
-    "bruschette" : [ {
+    "Bruschette" : [ {
       "code" : "B1",
       "name" : "Crema di funghi, Speck, Scamorza affumicata",
       "price" : 6
@@ -107,7 +107,7 @@
       "name" : "Philadelfia, Salmone aff., Avocado, Rucola, Uova di caviale, Salsa yogurt a parte",
       "price" : 9
     } ],
-    "carni" : [ {
+    "Carni" : [ {
       "code" : "C2",
       "name" : "ENTRECOTE Angus Irlandese 250 gr (frollatura 45/60 gg) con rucola e pomodorini o patatine fritte o verdure grigliate",
       "price" : 13
@@ -128,7 +128,7 @@
       "name" : "Straccetti di Scottona (220 gr. Manzo) o con Pomodorini, Rucola e Grana o con Zucchine, Lime e Bacon croccante",
       "price" : 12
     } ],
-    "dolci" : [ {
+    "Dolci" : [ {
       "code" : "D2",
       "name" : "Tartufo Nero",
       "price" : 3
@@ -137,7 +137,7 @@
       "name" : "Tartufo Bianco",
       "price" : 3
     } ],
-    "fritti" : [ {
+    "Fritti" : [ {
       "code" : "F1",
       "name" : "Fritto misto*",
       "price" : 7
@@ -190,7 +190,7 @@
       "name" : "Patate fritte aromatizzate al Pepe e Cipolla*",
       "price" : 3.5
     } ],
-    "fritti_speciali" : [ {
+    "Fritti Speciali" : [ {
       "code" : "FS1",
       "name" : "Alette di Pollo speziate*",
       "price" : 4
@@ -211,7 +211,7 @@
       "name" : "Chicken Stick* 6 pz (straccetti di Pollo)",
       "price" : 4
     } ],
-    "hamburger" : [ {
+    "Hamburger" : [ {
       "code" : "H1",
       "name" : "Hamburger di Angus 140 gr, Insalata, Pomodoro, Ketchup, Maionese",
       "price" : 6
@@ -300,7 +300,7 @@
       "name" : "Hamburger di Angus 250 gr, Crema di tartufo, Formaggio fuso, Bacon, Funghi grigliati, Rucola",
       "price" : 10
     } ],
-    "insalate" : [ {
+    "Insalate" : [ {
       "code" : "I1",
       "name" : "Iceberg, Carota, Mais, Olive, Philadelphia, Bresaola",
       "price" : 7
@@ -313,7 +313,7 @@
       "name" : "Iceberg, Carota, Rucola, Mais, Ananas, Avocado, Gamberetti, Pomodorini gialli",
       "price" : 7
     } ],
-    "mexican" : [ {
+    "Mexican" : [ {
       "code" : "M1",
       "name" : "ENCHILADAS: Tortillas, Pollo, Cipolla, Peperoni, Jalapeno, Verza, Salsa piccante tacos. Contorno di patate aromatizzate alla paprika. Piccante",
       "price" : 8
@@ -322,7 +322,7 @@
       "name" : "FAJITAS: Tortillas, Iceberg, pomodoro, Cipolla alla piastra, Peperoni, Manzo, Salsa tacos e Cheddar. Contorno di patatine aromatizzate alla paprika. Piccante",
       "price" : 8
     } ],
-    "panini" : [ {
+    "Panini" : [ {
       "code" : "P1",
       "name" : "Mortadella, Provolone, Carciofini sott'olio e Pomodoro",
       "price" : 6
@@ -363,7 +363,7 @@
       "name" : "Panino con Pomodoro e maionese, Straccetti di Scottona (220 gr manzo), Scamorza aff., Zucchine, Pomodori secchi, Melanzane",
       "price" : 10
     } ],
-    "vini" : [ {
+    "Vini" : [ {
       "code" : "V1",
       "name" : "Agora' Bianco 75 cl",
       "price" : 12
@@ -388,11 +388,5 @@
       "name" : "Cantalupi Negroamaro 75 cl",
       "price" : 12
     } ]
-  },
-  "paginator" : {
-    "limit" : 5,
-    "per_page" : 10,
-    "total" : 1
-  },
-  "status" : 2000
+  }
 }
