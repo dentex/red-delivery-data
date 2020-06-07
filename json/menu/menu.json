@@ -387,6 +387,11 @@
       "code" : "V6",
       "name" : "Cantalupi Negroamaro 75 cl",
       "price" : 12
+    } ],
+    "Pizze" : [ {
+      "code" : "PZ1",
+      "name" : "Margherita",
+      "price" : 5
     } ]
   }
 }
