@@ -16,7 +16,7 @@
     },
     {
       "image": "https://github.com/dentex/red-delivery-data/raw/master/demo/json/info/images/demo.png",
-      "height": 430,
+      "height": 500,
       "text": "Some pictures...",
       "subtext": "Click and take a look",
       "action": "slideshow",
