@@ -1,0 +1,27 @@
+{
+  "info": [
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/demo/json/info/images/call.png",
+      "height": 192,
+      "text": "Call us",
+      "subtext": "+01 555 50055005",
+      "action": "call"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/demo/json/info/images/map.png",
+      "height": 500,
+      "text": "Our position",
+      "subtext": "How to arrive here",
+      "action": "maps"
+    },
+    {
+      "image": "https://github.com/dentex/red-delivery-data/raw/master/demo/json/info/images/menu.png",
+      "height": 425,
+      "text": "SOme pictures...",
+      "subtext": "Click and take a look",
+      "action": "slideshow",
+      "num": 3,
+      "dir": "menu"
+    }
+  ]
+}

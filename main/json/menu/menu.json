@@ -1,0 +1,397 @@
+{
+  "menu" : {
+    "Bevande" : [ {
+      "code" : "BA1",
+      "name" : "Acqua naturale 50 cl",
+      "price" : 1
+    }, {
+      "code" : "BA2",
+      "name" : "Acqua frizzante 50 cl",
+      "price" : 1
+    }, {
+      "code" : "BA3",
+      "name" : "Coca Cola 33 cl",
+      "price" : 2.5
+    }, {
+      "code" : "BA9",
+      "name" : "Coca Cola Zero 33 cl",
+      "price" : 2.5
+    }, {
+      "code" : "BA10",
+      "name" : "Fanta 33 cl",
+      "price" : 2.5
+    }, {
+      "code" : "BA11",
+      "name" : "Sprite 33 cl",
+      "price" : 2.5
+    }, {
+      "code" : "BA4",
+      "name" : "Succhi: Ananas, Ace, Pesca, Mela verde, Arancia",
+      "price" : 2.5
+    }, {
+      "code" : "BA5",
+      "name" : "Cocktail San Pellegrino",
+      "price" : 2.5
+    }, {
+      "code" : "BA6",
+      "name" : "Campari Soda",
+      "price" : 2.5
+    }, {
+      "code" : "BA7",
+      "name" : "Red Bull",
+      "price" : 3
+    }, {
+      "code" : "BA8",
+      "name" : "Tonica",
+      "price" : 2.5
+    } ],
+    "Birre" : [ {
+      "code" : "BB1",
+      "name" : "Bionda Lager 33 cl Heineken",
+      "price" : 2
+    }, {
+      "code" : "BB2",
+      "name" : "Salento TIPA 33 cl Birra IPA Artigianale",
+      "price" : 5
+    }, {
+      "code" : "BB3",
+      "name" : "L'Olmaia LA9 33 cl",
+      "price" : 5
+    }, {
+      "code" : "BB4",
+      "name" : "Paulaner 50 cl",
+      "price" : 5
+    }, {
+      "code" : "BB5",
+      "name" : "Chimay Doree 33 cl ",
+      "price" : 5
+    }, {
+      "code" : "BB6",
+      "name" : "Chimay Rouge 33 cl",
+      "price" : 5
+    }, {
+      "code" : "BB7",
+      "name" : "Chimay Triple 33 cl",
+      "price" : 5
+    }, {
+      "code" : "BB8",
+      "name" : "Bush Ambree 33 cl",
+      "price" : 5
+    } ],
+    "Bruschette" : [ {
+      "code" : "B1",
+      "name" : "Crema di funghi, Speck, Scamorza affumicata",
+      "price" : 6
+    }, {
+      "code" : "B2",
+      "name" : "Stracchino, Mortadella, Crema di Pistacchio, Granella di Pistacchio",
+      "price" : 6
+    }, {
+      "code" : "B3",
+      "name" : "VEGAN: Verdure grigliate miste, Pomodorini, Olio e sale",
+      "price" : 5
+    }, {
+      "code" : "B4",
+      "name" : "Pesto di Pistacchi, Mortadella, Burratine e Granella di Pistacchi",
+      "price" : 8
+    }, {
+      "code" : "B6",
+      "name" : "Crudo di Parma, Stracciatella, Burrata, Rucola",
+      "price" : 8
+    }, {
+      "code" : "B7",
+      "name" : "Crema di tartufo, Speck, Scamorza affumicata, Radicchio",
+      "price" : 8
+    }, {
+      "code" : "B8",
+      "name" : "Philadelfia, Salmone aff., Avocado, Rucola, Uova di caviale, Salsa yogurt a parte",
+      "price" : 9
+    } ],
+    "Carni" : [ {
+      "code" : "C2",
+      "name" : "ENTRECOTE Angus Irlandese 250 gr (frollatura 45/60 gg) con rucola e pomodorini o patatine fritte o verdure grigliate",
+      "price" : 13
+    }, {
+      "code" : "C3",
+      "name" : "TAGLIATA Angus Irlandese 250 gr (frollatura 45/60 gg) Rucola, Grana, Pomodorini",
+      "price" : 13
+    }, {
+      "code" : "C4",
+      "name" : "TAGLIATA Angus Irlandese 250 gr (frollatura 45/60 gg) con porcini trifolati",
+      "price" : 14
+    }, {
+      "code" : "C5",
+      "name" : "TAGLIATA di Pollo ai ferri, con contorno di verdure grigliate, Pomodorini, Insalata e carciofi",
+      "price" : 10
+    }, {
+      "code" : "C9",
+      "name" : "Straccetti di Scottona (220 gr. Manzo) o con Pomodorini, Rucola e Grana o con Zucchine, Lime e Bacon croccante",
+      "price" : 12
+    } ],
+    "Dolci" : [ {
+      "code" : "D2",
+      "name" : "Tartufo Nero",
+      "price" : 3
+    }, {
+      "code" : "D3",
+      "name" : "Tartufo Bianco",
+      "price" : 3
+    } ],
+    "Fritti" : [ {
+      "code" : "F1",
+      "name" : "Fritto misto*",
+      "price" : 7
+    }, {
+      "code" : "F2",
+      "name" : "Patatine fritte",
+      "price" : 3
+    }, {
+      "code" : "F3",
+      "name" : "Patatine dippers*",
+      "price" : 3.5
+    }, {
+      "code" : "F4",
+      "name" : "Panzerottini* 5 pz",
+      "price" : 3
+    }, {
+      "code" : "F5",
+      "name" : "Mozzarelline* 5 pz",
+      "price" : 3
+    }, {
+      "code" : "F6",
+      "name" : "Polpette artigianali",
+      "price" : 3.5
+    }, {
+      "code" : "F7",
+      "name" : "Anelli di Cipolla*",
+      "price" : 3
+    }, {
+      "code" : "F8",
+      "name" : "Anelli di Cipolla aromatizzata*",
+      "price" : 4
+    }, {
+      "code" : "F9",
+      "name" : "Crocchette di Patate* 5 pz",
+      "price" : 3
+    }, {
+      "code" : "F10",
+      "name" : "Pepite di Pollo* 5 pz",
+      "price" : 3.5
+    }, {
+      "code" : "F11",
+      "name" : "Olive Ascolane* 5 pz",
+      "price" : 3.5
+    }, {
+      "code" : "F12",
+      "name" : "Verdurine  fritte*",
+      "price" : 3.5
+    }, {
+      "code" : "F13",
+      "name" : "Patate fritte aromatizzate al Pepe e Cipolla*",
+      "price" : 3.5
+    } ],
+    "Fritti Speciali" : [ {
+      "code" : "FS1",
+      "name" : "Alette di Pollo speziate*",
+      "price" : 4
+    }, {
+      "code" : "FS2",
+      "name" : "Fusi di Pollo*",
+      "price" : 4
+    }, {
+      "code" : "FS3",
+      "name" : "Red Hot Salapeno* 4 pz (bocconcini di formaggio e peperoncino messicano)",
+      "price" : 4
+    }, {
+      "code" : "FS4",
+      "name" : "Happy Ribs* 3 pz (costolette di maiale speziate)",
+      "price" : 5
+    }, {
+      "code" : "FS5",
+      "name" : "Chicken Stick* 6 pz (straccetti di Pollo)",
+      "price" : 4
+    } ],
+    "Hamburger" : [ {
+      "code" : "H1",
+      "name" : "Hamburger di Angus 140 gr, Insalata, Pomodoro, Ketchup, Maionese",
+      "price" : 6
+    }, {
+      "code" : "H1D",
+      "name" : "Hamburger di Angus 250 gr, Insalata, Pomodoro, Ketchup, Maionese",
+      "price" : 9
+    }, {
+      "code" : "H2",
+      "name" : "Hamburger di Angus 140 gr, Cipolla cruda, Cheddar, Bacon, Insalata, Pomodoro, Salsa BBQ",
+      "price" : 7
+    }, {
+      "code" : "H2D",
+      "name" : "Hamburger di Angus 250 gr, Cipolla cruda, Cheddar, Bacon, Insalata, Pomodoro, Salsa BBQ",
+      "price" : 10
+    }, {
+      "code" : "H3",
+      "name" : "Hamburger di Angus 140 gr, Salsa Boscaiola, Scamorza aff., Insalata, Pomodoro, Bacon",
+      "price" : 7
+    }, {
+      "code" : "H3D",
+      "name" : "Hamburger di Angus 250 gr, Salsa Boscaiola, Scamorza aff., Insalata, Pomodoro, Bacon",
+      "price" : 10
+    }, {
+      "code" : "H4",
+      "name" : "Hamburger di Angus 140 gr, Uovo, Cheddar, Bacon, Pomodori, Cetrioli, Insalata , Cipolla caramellata, Ketchup, Maionese",
+      "price" : 8
+    }, {
+      "code" : "H4D",
+      "name" : "Hamburger di Angus 250 gr, Uovo, Cheddar, Bacon, Pomodori, Cetrioli, Insalata , Cipolla caramellata, Ketchup, Maionese",
+      "price" : 11
+    }, {
+      "code" : "H5",
+      "name" : "Hamburger Vegano* 150 gr in piatto, Verdure miste grigliate, Salsa allo yogurt, Cipolla stufata alla birra e curry",
+      "price" : 7
+    }, {
+      "code" : "H6",
+      "name" : "Hamburger di Angus 140 gr, Anelli di Cipolla fritti, Salsa BBQ, Bacon, Cheddar, Insalata",
+      "price" : 7
+    }, {
+      "code" : "H6D",
+      "name" : "Hamburger di Angus 250 gr, Anelli di Cipolla fritti, Salsa BBQ, Bacon, Cheddar, Insalata",
+      "price" : 10
+    }, {
+      "code" : "H7",
+      "name" : "Hamburger di Angus 250 gr in Birra Black Guinness, Insalata, Pomodoro, Salse a scelta : Ketchup, Boscaiola, Maionese, Senape, BBQ.",
+      "price" : 10
+    }, {
+      "code" : "H8",
+      "name" : "Hamburger Vegetariano Home Made 150 gr (uova, patate, farina di ceci, melanzane, zucchine), Insalata, Scamorza affumicata, Cipolla caramellata, Salsa yogurt, Pomodorini secchi e gialli",
+      "price" : 7.5
+    }, {
+      "code" : "H9",
+      "name" : "Hamburger di Angus 250 gr, Cheddar, Cipolla caramellata, Bacon, Insalata, Pomodoro, Salse a scelta: Ketchup, Boscaiola, Maionese, senape, BBQ",
+      "price" : 10
+    }, {
+      "code" : "H10",
+      "name" : "Hamburger di  Angus 140 gr, Pomodori secchi, Scamorza affumicata, Cime di rape",
+      "price" : 8
+    }, {
+      "code" : "H10D",
+      "name" : "Hamburger di  Angus 250 gr, Pomodori secchi, Scamorza affumicata, Cime di rape",
+      "price" : 10
+    }, {
+      "code" : "H11",
+      "name" : "Hamburger di Angus 140 gr, Capocollo di Martina F.ca DOP, Burratina, Zucchina grill. e Philadelphia",
+      "price" : 10
+    }, {
+      "code" : "H11D",
+      "name" : "Hamburger di Angus 250 gr, Capocollo di Martina F.ca DOP, Burratina, Zucchina grill. e Philadelphia",
+      "price" : 12
+    }, {
+      "code" : "H12",
+      "name" : "Hamburger di Angus 140 gr, Insalata, Pomodoro, Crudo di Parma, Stracciatella, Granella noci",
+      "price" : 10
+    }, {
+      "code" : "H12D",
+      "name" : "Hamburger di Angus 250 gr, Insalata, Pomodoro, Crudo di Parma, Stracciatella, Granella noci",
+      "price" : 12
+    }, {
+      "code" : "H13",
+      "name" : "Hamburger di Angus 140 gr, Crema di tartufo, Formaggio fuso, Bacon, Funghi grigliati, Rucola",
+      "price" : 8
+    }, {
+      "code" : "H13D",
+      "name" : "Hamburger di Angus 250 gr, Crema di tartufo, Formaggio fuso, Bacon, Funghi grigliati, Rucola",
+      "price" : 10
+    } ],
+    "Insalate" : [ {
+      "code" : "I1",
+      "name" : "Iceberg, Carota, Mais, Olive, Philadelphia, Bresaola",
+      "price" : 7
+    }, {
+      "code" : "I2",
+      "name" : "Iceberg, Carota, Pomodoro, Mozzarella, Crudo, Rucola, Grana",
+      "price" : 7
+    }, {
+      "code" : "I3",
+      "name" : "Iceberg, Carota, Rucola, Mais, Ananas, Avocado, Gamberetti, Pomodorini gialli",
+      "price" : 7
+    } ],
+    "Mexican" : [ {
+      "code" : "M1",
+      "name" : "ENCHILADAS: Tortillas, Pollo, Cipolla, Peperoni, Jalapeno, Verza, Salsa piccante tacos. Contorno di patate aromatizzate alla paprika. Piccante",
+      "price" : 8
+    }, {
+      "code" : "M2",
+      "name" : "FAJITAS: Tortillas, Iceberg, pomodoro, Cipolla alla piastra, Peperoni, Manzo, Salsa tacos e Cheddar. Contorno di patatine aromatizzate alla paprika. Piccante",
+      "price" : 8
+    } ],
+    "Panini" : [ {
+      "code" : "P1",
+      "name" : "Mortadella, Provolone, Carciofini sott'olio e Pomodoro",
+      "price" : 6
+    }, {
+      "code" : "P2",
+      "name" : "Parma, Stracciatella, Granella di noci, Pomodoro, Iceberg",
+      "price" : 7
+    }, {
+      "code" : "P3",
+      "name" : "Bresaola, Stracchino, Rucola, Pomodorini",
+      "price" : 7
+    }, {
+      "code" : "P4",
+      "name" : "Salmone affumicato, Stracciatella, Rucola, Gamberetti, Lime",
+      "price" : 7
+    }, {
+      "code" : "P5",
+      "name" : "Hot Dog Baby, Patatine, Ketchup, Maionese",
+      "price" : 4
+    }, {
+      "code" : "P6",
+      "name" : "Hot Dog, Patatine, Ketchup, Maionese",
+      "price" : 6
+    }, {
+      "code" : "P7",
+      "name" : "Capocollo Martina F.ca DOP, Pomodori secchi, Burratina, Funghi grigliati",
+      "price" : 10
+    }, {
+      "code" : "P8",
+      "name" : "Hamb. di  Angus 250 gr, Cime di rapa, Provolone, Pomodori secchi",
+      "price" : 10
+    }, {
+      "code" : "P10",
+      "name" : "Pollo, Pomodoro, Rucola, Salsa yogurt",
+      "price" : 9
+    }, {
+      "code" : "P11",
+      "name" : "Panino con Pomodoro e maionese, Straccetti di Scottona (220 gr manzo), Scamorza aff., Zucchine, Pomodori secchi, Melanzane",
+      "price" : 10
+    } ],
+    "Vini" : [ {
+      "code" : "V1",
+      "name" : "Agora' Bianco 75 cl",
+      "price" : 12
+    }, {
+      "code" : "V2",
+      "name" : "Agora' Rosato 75 cl",
+      "price" : 12
+    }, {
+      "code" : "V3",
+      "name" : "Bianca Petrosa 75 cl",
+      "price" : 12
+    }, {
+      "code" : "V4",
+      "name" : "Girofle Rosato 75 cl",
+      "price" : 14
+    }, {
+      "code" : "V5",
+      "name" : "Pumo Primitivo 75 cl",
+      "price" : 12
+    }, {
+      "code" : "V6",
+      "name" : "Cantalupi Negroamaro 75 cl",
+      "price" : 12
+    } ],
+    "Pizze" : [ {
+      "code" : "PZ1",
+      "name" : "Margherita",
+      "price" : 5
+    } ]
+  }
+}
