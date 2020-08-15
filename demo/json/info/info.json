@@ -10,18 +10,18 @@
     {
       "image": "https://github.com/dentex/red-delivery-data/raw/master/demo/json/info/images/map.png",
       "height": 500,
-      "text": "Our position",
+      "text": "Find us",
       "subtext": "How to arrive here",
       "action": "maps"
     },
     {
       "image": "https://github.com/dentex/red-delivery-data/raw/master/demo/json/info/images/menu.png",
       "height": 425,
-      "text": "SOme pictures...",
+      "text": "Some pictures...",
       "subtext": "Click and take a look",
       "action": "slideshow",
       "num": 3,
-      "dir": "menu"
+      "dir": "demo"
     }
   ]
 }
